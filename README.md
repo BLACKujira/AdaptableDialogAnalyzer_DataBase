@@ -1,2 +1,2 @@
 # AdaptableDialogAnalyzer_DataBase
-用于储存统计视频的统计样本和统计结果
+用于储存统计视频的统计样本和统计结果，需配合AdaptableDialogAnalyzer使用
